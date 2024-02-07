@@ -19,7 +19,7 @@ pyupgrade = "*"
 
 [packages]
 # core requirements
-django = ">=2.2, <2.3"
+django = ">=2.2,<3.3"
 django-inet = ">=0.5.0, <0.6"
 django-handleref = ">=0.6.0, <0.7"
 django-namespace-perms = ">=0.6.0, <0.7"
